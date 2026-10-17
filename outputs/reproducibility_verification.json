@@ -1,0 +1,35 @@
+{
+  "verified_on": "2026-10-17",
+  "tables": [
+    {
+      "file": "final_metrics.csv",
+      "rows": 20,
+      "matched": true
+    },
+    {
+      "file": "final_cv_folds.csv",
+      "rows": 40,
+      "matched": true
+    },
+    {
+      "file": "final_cv_summary.csv",
+      "rows": 8,
+      "matched": true
+    },
+    {
+      "file": "final_regression_search.csv",
+      "rows": 7,
+      "matched": true
+    },
+    {
+      "file": "final_classification_search.csv",
+      "rows": 30,
+      "matched": true
+    }
+  ],
+  "prediction_arrays": 36,
+  "configuration_sha256": "e4d29a6f7ae7a3852838b512ca8a27ad00f240d0465025e92af06afe27febd8f",
+  "tolerance": "rtol=atol=1e-10; execution timings and freeze timestamps excluded. Configuration hashes include the timestamp, so stable configuration fields are compared directly.",
+  "method": "Fresh output directory: full one-command run completed search and CV, then was interrupted during final evaluation. Final stage resumed with the same frozen configuration; all numerical tables and prediction arrays match the original run. No test-driven retuning.",
+  "notebook_execution": "Code cells executed in order in a shared Python namespace with captured stdout and Matplotlib figures. Jupyter UI/kernel launch itself was not tested on this host."
+}

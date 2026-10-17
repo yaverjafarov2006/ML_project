@@ -1,0 +1,14 @@
+{
+  "category": "yeni tikili",
+  "city": "Bakı",
+  "location": "Yasamal r.",
+  "area_m2": 100,
+  "rooms": 3,
+  "floor": 7,
+  "total_floors": 16,
+  "latitude": 40.4,
+  "longitude": 49.82,
+  "repair": "var",
+  "bill_of_sale": "var",
+  "mortgage": "var"
+}

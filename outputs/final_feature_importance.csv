@@ -1,0 +1,384 @@
+model,route,feature,importance
+own_tree_regression,apartment,area_m2,0.586214145952908
+own_tree_regression,apartment,land_area_m2,0.0
+own_tree_regression,apartment,rooms,0.0018634259378754777
+own_tree_regression,apartment,floor,0.004680654001991946
+own_tree_regression,apartment,total_floors,0.012482015364312909
+own_tree_regression,apartment,floor_ratio,0.009654239920027109
+own_tree_regression,apartment,latitude,0.013307654673137508
+own_tree_regression,apartment,longitude,0.004345896110916606
+own_tree_regression,apartment,log_area_m2,0.14145803656528094
+own_tree_regression,apartment,area_per_room,0.004263046784373932
+own_tree_regression,apartment,area_m2__missing,0.0
+own_tree_regression,apartment,land_area_m2__missing,0.0
+own_tree_regression,apartment,rooms__missing,0.0
+own_tree_regression,apartment,floor__missing,0.0
+own_tree_regression,apartment,total_floors__missing,0.0
+own_tree_regression,apartment,floor_ratio__missing,0.0
+own_tree_regression,apartment,latitude__missing,0.0
+own_tree_regression,apartment,longitude__missing,0.0
+own_tree_regression,apartment,log_area_m2__missing,0.0
+own_tree_regression,apartment,area_per_room__missing,0.0
+own_tree_regression,apartment,city=bakı,0.0
+own_tree_regression,apartment,city=xırdalan,0.0
+own_tree_regression,apartment,city=<RARE>,0.0
+own_tree_regression,apartment,city=<UNKNOWN>,0.0
+own_tree_regression,apartment,city=<MISSING>,0.0
+own_tree_regression,apartment,location=20 yanvar m.,1.5816841422843133e-05
+own_tree_regression,apartment,location=28 may m.,4.540308122864217e-05
+own_tree_regression,apartment,location=7-ci mikrorayon q.,0.0
+own_tree_regression,apartment,location=8 noyabr m.,7.988446575246712e-05
+own_tree_regression,apartment,location=8-ci kilometr q.,0.0
+own_tree_regression,apartment,location=8-ci mikrorayon q.,0.0
+own_tree_regression,apartment,location=9-cu mikrorayon q.,0.0
+own_tree_regression,apartment,location=abşeron r.,2.3885130147123373e-05
+own_tree_regression,apartment,location=avtovağzal m.,0.0
+own_tree_regression,apartment,location=azadlıq prospekti m.,1.4572177539843126e-06
+own_tree_regression,apartment,location=ağ şəhər q.,0.003791550289888517
+own_tree_regression,apartment,location=badamdar q.,3.3779473854966383e-05
+own_tree_regression,apartment,location=bakıxanov q.,0.0
+own_tree_regression,apartment,location=bayıl q.,0.0
+own_tree_regression,apartment,location=biləcəri q.,0.0
+own_tree_regression,apartment,location=binə q.,0.0
+own_tree_regression,apartment,location=binəqədi q.,0.0
+own_tree_regression,apartment,location=binəqədi r.,0.0006348085978838214
+own_tree_regression,apartment,location=buzovna q.,0.0
+own_tree_regression,apartment,location=dərnəgül m.,8.657108091872221e-06
+own_tree_regression,apartment,location=elmlər akademiyası m.,0.0
+own_tree_regression,apartment,location=gənclik m.,0.0
+own_tree_regression,apartment,location=hövsan q.,1.175419836508469e-05
+own_tree_regression,apartment,location=həzi aslanov m.,9.23843953398228e-06
+own_tree_regression,apartment,location=həzi aslanov q.,9.775266417024112e-06
+own_tree_regression,apartment,location=i̇nşaatçılar m.,0.0
+own_tree_regression,apartment,location=i̇çəri şəhər m.,0.0
+own_tree_regression,apartment,location=koroğlu m.,0.0
+own_tree_regression,apartment,location=köhnə günəşli q.,0.0
+own_tree_regression,apartment,location=lökbatan q.,0.0
+own_tree_regression,apartment,location=masazır q.,1.45017648773327e-05
+own_tree_regression,apartment,location=massiv d q.,0.0
+own_tree_regression,apartment,location=memar əcəmi m.,2.49732116692455e-05
+own_tree_regression,apartment,location=məmmədli q.,8.795377794649818e-05
+own_tree_regression,apartment,location=nardaran q.,0.0010850620575338977
+own_tree_regression,apartment,location=neftçilər m.,1.7720905044853724e-05
+own_tree_regression,apartment,location=nizami m.,2.8740925278314318e-05
+own_tree_regression,apartment,location=nizami r.,1.3352085941236434e-05
+own_tree_regression,apartment,location=nəriman nərimanov m.,0.0
+own_tree_regression,apartment,location=nərimanov r.,4.219614484585339e-06
+own_tree_regression,apartment,location=nəsimi m.,0.0
+own_tree_regression,apartment,location=nəsimi r.,0.0002711107227413588
+own_tree_regression,apartment,location=qara qarayev m.,0.00032315777840192497
+own_tree_regression,apartment,location=qaraçuxur q.,0.0
+own_tree_regression,apartment,location=sabunçu r.,0.0
+own_tree_regression,apartment,location=sahil m.,0.000294664046652854
+own_tree_regression,apartment,location=saray q.,0.0
+own_tree_regression,apartment,location=suraxanı r.,1.2251018936890794e-05
+own_tree_regression,apartment,location=səbail r.,0.0
+own_tree_regression,apartment,location=xalqlar dostluğu m.,0.0
+own_tree_regression,apartment,location=xırdalan,0.0
+own_tree_regression,apartment,location=xətai r.,8.726972083628003e-06
+own_tree_regression,apartment,location=yasamal q.,0.0
+own_tree_regression,apartment,location=yasamal r.,0.0
+own_tree_regression,apartment,location=yeni günəşli q.,0.0
+own_tree_regression,apartment,location=yeni yasamal q.,2.1223901826045254e-05
+own_tree_regression,apartment,location=zığ q.,0.0
+own_tree_regression,apartment,location=şah i̇smayıl xətai m.,1.1776840522698765e-05
+own_tree_regression,apartment,location=şıxov q.,0.0
+own_tree_regression,apartment,location=əhmədli m.,9.141381560228255e-06
+own_tree_regression,apartment,location=əhmədli q.,0.0
+own_tree_regression,apartment,location=əmircan q.,0.0
+own_tree_regression,apartment,location=<RARE>,0.0
+own_tree_regression,apartment,location=<UNKNOWN>,0.0
+own_tree_regression,apartment,location=<MISSING>,0.0
+own_tree_regression,apartment,category=köhnə tikili,0.0006165107782654924
+own_tree_regression,apartment,category=yeni tikili,0.0019060640751341381
+own_tree_regression,apartment,category=<RARE>,0.0
+own_tree_regression,apartment,category=<UNKNOWN>,0.0
+own_tree_regression,apartment,category=<MISSING>,0.0
+own_tree_regression,apartment,repair=var,0.003972000850447602
+own_tree_regression,apartment,repair=yoxdur,0.0036636866435879696
+own_tree_regression,apartment,repair=<RARE>,0.0
+own_tree_regression,apartment,repair=<UNKNOWN>,0.0
+own_tree_regression,apartment,repair=<MISSING>,0.0
+own_tree_regression,apartment,bill_of_sale=var,0.0002773688764378795
+own_tree_regression,apartment,bill_of_sale=yoxdur,0.0003497040482154949
+own_tree_regression,apartment,bill_of_sale=<RARE>,0.0
+own_tree_regression,apartment,bill_of_sale=<UNKNOWN>,0.0
+own_tree_regression,apartment,bill_of_sale=<MISSING>,0.0
+own_tree_regression,apartment,mortgage=var,0.00018871556105073972
+own_tree_regression,apartment,mortgage=<RARE>,0.0
+own_tree_regression,apartment,mortgage=<UNKNOWN>,0.0
+own_tree_regression,apartment,mortgage=<MISSING>,0.0001895184948679631
+own_tree_regression,apartment,distance_old_city_km,0.014722933902946813
+own_tree_regression,apartment,distance_train_geo_centre_00_km,0.005734550743011149
+own_tree_regression,apartment,distance_train_geo_centre_01_km,0.022578055625159202
+own_tree_regression,apartment,distance_train_geo_centre_02_km,0.0017206304199014178
+own_tree_regression,apartment,distance_train_geo_centre_03_km,0.0018896059675817644
+own_tree_regression,apartment,distance_train_geo_centre_04_km,0.0030145916647342924
+own_tree_regression,apartment,distance_train_geo_centre_05_km,0.0033298087234797965
+own_tree_regression,apartment,distance_train_geo_centre_06_km,0.012839806302168499
+own_tree_regression,apartment,distance_train_geo_centre_07_km,0.010436573079451892
+own_tree_regression,apartment,distance_train_geo_centre_08_km,0.006844554600278093
+own_tree_regression,apartment,distance_train_geo_centre_09_km,0.002887550789684264
+own_tree_regression,apartment,distance_train_geo_centre_10_km,0.11504089693886833
+own_tree_regression,apartment,distance_train_geo_centre_11_km,0.0026331694880607315
+own_tree_regression,apartment,geo_distance_missing,0.0
+own_tree_regression,house,area_m2,0.5258256107882346
+own_tree_regression,house,land_area_m2,0.03425769896083784
+own_tree_regression,house,rooms,0.011696037873852788
+own_tree_regression,house,floor,0.0
+own_tree_regression,house,total_floors,0.0
+own_tree_regression,house,floor_ratio,0.0
+own_tree_regression,house,latitude,0.0070100119878549845
+own_tree_regression,house,longitude,0.00892406326138468
+own_tree_regression,house,log_area_m2,0.19542894931646596
+own_tree_regression,house,area_per_room,0.009020478220181493
+own_tree_regression,house,area_m2__missing,0.0
+own_tree_regression,house,land_area_m2__missing,0.0
+own_tree_regression,house,rooms__missing,0.0
+own_tree_regression,house,floor__missing,0.0
+own_tree_regression,house,total_floors__missing,0.0
+own_tree_regression,house,floor_ratio__missing,0.0
+own_tree_regression,house,latitude__missing,0.0
+own_tree_regression,house,longitude__missing,0.0
+own_tree_regression,house,log_area_m2__missing,0.0
+own_tree_regression,house,area_per_room__missing,0.0
+own_tree_regression,house,city=bakı,0.0
+own_tree_regression,house,city=xaçmaz,0.0
+own_tree_regression,house,city=<RARE>,0.0
+own_tree_regression,house,city=<UNKNOWN>,0.0
+own_tree_regression,house,city=<MISSING>,0.0
+own_tree_regression,house,location=20-ci sahə q.,0.0
+own_tree_regression,house,location=abşeron r.,0.0
+own_tree_regression,house,location=albalılıq q.,0.0
+own_tree_regression,house,location=azadlıq prospekti m.,0.00032685007173822127
+own_tree_regression,house,location=badamdar q.,0.0
+own_tree_regression,house,location=bakıxanov q.,0.0009452301669095221
+own_tree_regression,house,location=bayıl q.,0.0
+own_tree_regression,house,location=bilgəh q.,0.00037648774297946924
+own_tree_regression,house,location=biləcəri q.,0.0
+own_tree_regression,house,location=binə q.,0.003859826293403611
+own_tree_regression,house,location=binəqədi q.,0.0002563134758125919
+own_tree_regression,house,location=binəqədi r.,0.0
+own_tree_regression,house,location=buzovna q.,0.00014048819356817267
+own_tree_regression,house,location=fatmayı q.,0.0
+own_tree_regression,house,location=görədil q.,0.0
+own_tree_regression,house,location=gənclik m.,0.0
+own_tree_regression,house,location=hökməli q.,0.0
+own_tree_regression,house,location=hövsan q.,0.0
+own_tree_regression,house,location=həzi aslanov q.,0.0
+own_tree_regression,house,location=i̇nşaatçılar m.,0.0
+own_tree_regression,house,location=keşlə q.,0.0
+own_tree_regression,house,location=kürdəxanı q.,0.0
+own_tree_regression,house,location=lökbatan q.,0.0
+own_tree_regression,house,location=m.ə.rəsulzadə q.,0.0
+own_tree_regression,house,location=masazır q.,7.45845542275032e-05
+own_tree_regression,house,location=maştağa q.,0.0
+own_tree_regression,house,location=mehdiabad q.,0.0
+own_tree_regression,house,location=məmmədli q.,0.0
+own_tree_regression,house,location=mərdəkan q.,0.0030464682903707735
+own_tree_regression,house,location=nardaran q.,0.0
+own_tree_regression,house,location=novxanı q.,0.0
+own_tree_regression,house,location=nzs q.,0.0
+own_tree_regression,house,location=nəriman nərimanov m.,0.0
+own_tree_regression,house,location=nərimanov r.,0.0
+own_tree_regression,house,location=nəsimi m.,0.0
+own_tree_regression,house,location=pirşağı q.,0.0
+own_tree_regression,house,location=qala q.,0.0
+own_tree_regression,house,location=qara qarayev m.,0.0
+own_tree_regression,house,location=qaraçuxur q.,0.0
+own_tree_regression,house,location=ramana q.,5.4630886755594935e-05
+own_tree_regression,house,location=sabunçu q.,0.0005068425571583013
+own_tree_regression,house,location=sabunçu r.,0.0
+own_tree_regression,house,location=saray q.,0.0
+own_tree_regression,house,location=savalan q.,3.273600130620041e-06
+own_tree_regression,house,location=sulutəpə q.,0.0
+own_tree_regression,house,location=səbail r.,0.0
+own_tree_regression,house,location=türkan q.,0.0
+own_tree_regression,house,location=xaçmaz,0.0
+own_tree_regression,house,location=xətai r.,0.0
+own_tree_regression,house,location=xəzər r.,0.0
+own_tree_regression,house,location=yeni ramana q.,0.0
+own_tree_regression,house,location=zabrat q.,0.0
+own_tree_regression,house,location=zığ q.,0.0
+own_tree_regression,house,location=şağan q.,0.00028032892464343966
+own_tree_regression,house,location=şüvəlan q.,4.9076468627092205e-05
+own_tree_regression,house,location=şıxov q.,0.0
+own_tree_regression,house,location=əhmədli m.,0.0
+own_tree_regression,house,location=əhmədli q.,0.0
+own_tree_regression,house,location=əmircan q.,0.0
+own_tree_regression,house,location=<RARE>,0.0001950153180508247
+own_tree_regression,house,location=<UNKNOWN>,0.0
+own_tree_regression,house,location=<MISSING>,0.0
+own_tree_regression,house,category=həyət evi/bağ evi,0.0
+own_tree_regression,house,category=<RARE>,0.0
+own_tree_regression,house,category=<UNKNOWN>,0.0
+own_tree_regression,house,category=<MISSING>,0.0
+own_tree_regression,house,repair=var,0.0016139007950113885
+own_tree_regression,house,repair=yoxdur,0.008446000953891107
+own_tree_regression,house,repair=<RARE>,0.0
+own_tree_regression,house,repair=<UNKNOWN>,0.0
+own_tree_regression,house,repair=<MISSING>,0.0
+own_tree_regression,house,bill_of_sale=var,0.011646716609387627
+own_tree_regression,house,bill_of_sale=yoxdur,0.0026701955348690525
+own_tree_regression,house,bill_of_sale=<RARE>,0.0
+own_tree_regression,house,bill_of_sale=<UNKNOWN>,0.0
+own_tree_regression,house,bill_of_sale=<MISSING>,0.0
+own_tree_regression,house,mortgage=var,7.421185125355193e-05
+own_tree_regression,house,mortgage=<RARE>,0.0
+own_tree_regression,house,mortgage=<UNKNOWN>,0.0
+own_tree_regression,house,mortgage=<MISSING>,0.0004974404385264616
+own_tree_regression,house,distance_old_city_km,0.0217773322744454
+own_tree_regression,house,distance_train_geo_centre_00_km,0.012013975050055475
+own_tree_regression,house,distance_train_geo_centre_01_km,0.008755320264769748
+own_tree_regression,house,distance_train_geo_centre_02_km,0.004702393589457844
+own_tree_regression,house,distance_train_geo_centre_03_km,0.0043919926719712355
+own_tree_regression,house,distance_train_geo_centre_04_km,0.002402392956469384
+own_tree_regression,house,distance_train_geo_centre_05_km,0.020766301780143142
+own_tree_regression,house,distance_train_geo_centre_06_km,0.007892194635139264
+own_tree_regression,house,distance_train_geo_centre_07_km,0.040750462379554896
+own_tree_regression,house,distance_train_geo_centre_08_km,0.008119223747009978
+own_tree_regression,house,distance_train_geo_centre_09_km,0.0028925212614612046
+own_tree_regression,house,distance_train_geo_centre_10_km,0.010420856410266759
+own_tree_regression,house,distance_train_geo_centre_11_km,0.027888299843128177
+own_tree_regression,house,geo_distance_missing,0.0
+own_tree,all,area_m2,0.40422468538921225
+own_tree,all,land_area_m2,0.08038663410869484
+own_tree,all,rooms,0.001949815594558061
+own_tree,all,floor,0.014826880928733358
+own_tree,all,total_floors,0.014538233597389635
+own_tree,all,floor_ratio,0.02430960477763652
+own_tree,all,latitude,0.0976921601893639
+own_tree,all,longitude,0.16903357616077927
+own_tree,all,log_area_m2,0.10114638255760283
+own_tree,all,area_per_room,0.016583130439488825
+own_tree,all,area_m2__missing,0.0
+own_tree,all,land_area_m2__missing,0.0
+own_tree,all,rooms__missing,0.0
+own_tree,all,floor__missing,0.0
+own_tree,all,total_floors__missing,0.0
+own_tree,all,floor_ratio__missing,0.0003169636667117375
+own_tree,all,latitude__missing,0.0
+own_tree,all,longitude__missing,0.0
+own_tree,all,log_area_m2__missing,0.0
+own_tree,all,area_per_room__missing,0.0
+own_tree,all,city=bakı,0.0
+own_tree,all,city=xaçmaz,0.0
+own_tree,all,city=xırdalan,0.0
+own_tree,all,city=<RARE>,0.0
+own_tree,all,city=<UNKNOWN>,0.0
+own_tree,all,city=<MISSING>,0.0
+own_tree,all,location=20 yanvar m.,0.000776332593584546
+own_tree,all,location=20-ci sahə q.,0.0
+own_tree,all,location=28 may m.,0.0007065456985437024
+own_tree,all,location=7-ci mikrorayon q.,0.0
+own_tree,all,location=8 noyabr m.,0.0
+own_tree,all,location=8-ci kilometr q.,0.0
+own_tree,all,location=8-ci mikrorayon q.,5.1072438489984016e-05
+own_tree,all,location=9-cu mikrorayon q.,0.0
+own_tree,all,location=abşeron r.,0.0
+own_tree,all,location=albalılıq q.,0.0
+own_tree,all,location=avtovağzal m.,0.0
+own_tree,all,location=azadlıq prospekti m.,0.0
+own_tree,all,location=ağ şəhər q.,0.0069662510539727236
+own_tree,all,location=badamdar q.,0.0005807901037769208
+own_tree,all,location=bakıxanov q.,0.0001962778226872297
+own_tree,all,location=bayıl q.,0.0
+own_tree,all,location=bilgəh q.,0.0
+own_tree,all,location=biləcəri q.,6.168106004405315e-05
+own_tree,all,location=binə q.,0.0
+own_tree,all,location=binəqədi q.,0.0001060301155112377
+own_tree,all,location=binəqədi r.,0.0
+own_tree,all,location=buzovna q.,0.00013090860574986143
+own_tree,all,location=bülbülə q.,0.0
+own_tree,all,location=ceyranbatan q.,0.0
+own_tree,all,location=dərnəgül m.,6.458410612357719e-05
+own_tree,all,location=elmlər akademiyası m.,0.000129837772712796
+own_tree,all,location=fatmayı q.,0.0
+own_tree,all,location=görədil q.,0.0
+own_tree,all,location=gənclik m.,0.0007035546532649622
+own_tree,all,location=hökməli q.,0.0
+own_tree,all,location=hövsan q.,0.0
+own_tree,all,location=həzi aslanov m.,0.00012330056382938847
+own_tree,all,location=həzi aslanov q.,0.0
+own_tree,all,location=i̇nşaatçılar m.,0.00015166272213154217
+own_tree,all,location=i̇çəri şəhər m.,0.0
+own_tree,all,location=keşlə q.,0.0
+own_tree,all,location=koroğlu m.,0.0
+own_tree,all,location=köhnə günəşli q.,0.0
+own_tree,all,location=kürdəxanı q.,0.0
+own_tree,all,location=lökbatan q.,0.0
+own_tree,all,location=m.ə.rəsulzadə q.,0.0
+own_tree,all,location=masazır q.,0.0
+own_tree,all,location=massiv d q.,0.0
+own_tree,all,location=maştağa q.,0.0
+own_tree,all,location=mehdiabad q.,0.0
+own_tree,all,location=memar əcəmi m.,0.0
+own_tree,all,location=məmmədli q.,0.0001273241078341449
+own_tree,all,location=mərdəkan q.,0.00806238136026622
+own_tree,all,location=nardaran q.,0.0
+own_tree,all,location=neftçilər m.,0.00042982880002803285
+own_tree,all,location=nizami m.,0.0002030192662682223
+own_tree,all,location=nizami r.,0.0
+own_tree,all,location=novxanı q.,0.0
+own_tree,all,location=nzs q.,0.0
+own_tree,all,location=nəriman nərimanov m.,0.00023203552556219637
+own_tree,all,location=nərimanov r.,0.00015379802000315107
+own_tree,all,location=nəsimi m.,0.0
+own_tree,all,location=nəsimi r.,0.0
+own_tree,all,location=pirşağı q.,0.0
+own_tree,all,location=qala q.,0.0
+own_tree,all,location=qara qarayev m.,0.0
+own_tree,all,location=qaraçuxur q.,0.0
+own_tree,all,location=ramana q.,0.0
+own_tree,all,location=sabunçu q.,0.0
+own_tree,all,location=sabunçu r.,0.0
+own_tree,all,location=sahil m.,0.0
+own_tree,all,location=saray q.,0.0
+own_tree,all,location=savalan q.,0.0
+own_tree,all,location=sulutəpə q.,0.0
+own_tree,all,location=suraxanı r.,0.0
+own_tree,all,location=səbail r.,0.0
+own_tree,all,location=türkan q.,0.0
+own_tree,all,location=xalqlar dostluğu m.,0.00015637385829880498
+own_tree,all,location=xaçmaz,0.0
+own_tree,all,location=xocəsən q.,0.0
+own_tree,all,location=xırdalan,0.0
+own_tree,all,location=xətai r.,0.00011888772084221521
+own_tree,all,location=xəzər r.,0.0
+own_tree,all,location=yasamal q.,0.0
+own_tree,all,location=yasamal r.,0.00023404032023485998
+own_tree,all,location=yeni günəşli q.,0.0
+own_tree,all,location=yeni ramana q.,0.0
+own_tree,all,location=yeni yasamal q.,0.0002200405206608933
+own_tree,all,location=zabrat q.,0.0
+own_tree,all,location=zığ q.,0.0
+own_tree,all,location=şah i̇smayıl xətai m.,0.0063443381826491264
+own_tree,all,location=şağan q.,0.0
+own_tree,all,location=şüvəlan q.,0.0010076244073929065
+own_tree,all,location=şıxov q.,0.0
+own_tree,all,location=əhmədli m.,0.00014826315784373012
+own_tree,all,location=əhmədli q.,0.0
+own_tree,all,location=əmircan q.,0.0
+own_tree,all,location=<RARE>,0.00021446435351772983
+own_tree,all,location=<UNKNOWN>,0.0
+own_tree,all,location=<MISSING>,0.0
+own_tree,all,category=həyət evi/bağ evi,0.0
+own_tree,all,category=köhnə tikili,0.0014012994014167709
+own_tree,all,category=yeni tikili,0.02222181345990508
+own_tree,all,category=<RARE>,0.0
+own_tree,all,category=<UNKNOWN>,0.0
+own_tree,all,category=<MISSING>,0.0
+own_tree,all,repair=var,0.0064173149129588165
+own_tree,all,repair=yoxdur,0.007744289047406677
+own_tree,all,repair=<RARE>,0.0
+own_tree,all,repair=<UNKNOWN>,0.0
+own_tree,all,repair=<MISSING>,0.0
+own_tree,all,bill_of_sale=var,0.003167274527591817
+own_tree,all,bill_of_sale=yoxdur,0.002539139880546797
+own_tree,all,bill_of_sale=<RARE>,0.0
+own_tree,all,bill_of_sale=<UNKNOWN>,0.0
+own_tree,all,bill_of_sale=<MISSING>,0.0
+own_tree,all,mortgage=var,0.0025137689481740523
+own_tree,all,mortgage=<RARE>,0.0
+own_tree,all,mortgage=<UNKNOWN>,0.0
+own_tree,all,mortgage=<MISSING>,0.0005857835000040642

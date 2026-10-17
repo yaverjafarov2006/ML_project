@@ -1,0 +1,33 @@
+{
+  "raw_rows": 100775,
+  "clean_rows": 64454,
+  "residential_rows": 58452,
+  "split": {
+    "train": {
+      "n": 40932,
+      "groups": 40422,
+      "premium": 20430
+    },
+    "validation": {
+      "n": 8796,
+      "groups": 8692,
+      "premium": 4490
+    },
+    "test": {
+      "n": 8724,
+      "groups": 8622,
+      "premium": 4435
+    }
+  },
+  "threshold": 207000.0,
+  "original_full_scope_threshold": 210000.0,
+  "dataset_sha256": "b6a4c67e0d3c712de31b9db53db53688792bc03099a213c1994c43114758aec2",
+  "seed": 42,
+  "categories": [
+    "yeni tikili",
+    "köhnə tikili",
+    "həyət evi/bağ evi"
+  ],
+  "feature_count": 141,
+  "notes": "Original full-dataset group split retained. Final residential training median defines the final classification task."
+}

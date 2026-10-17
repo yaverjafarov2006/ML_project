@@ -1,0 +1,142 @@
+feature,coefficient
+area_m2,-0.4769034495418764
+land_area_m2,-0.060617608007373626
+rooms,-0.00020200526903007407
+floor,-0.09896200513570577
+total_floors,0.2480692150200494
+floor_ratio,0.031977156838752754
+latitude,-0.07357190819691886
+longitude,0.11053700202443913
+log_area_m2,3.158091659295866
+area_per_room,-0.16437920211625576
+area_m2__missing,0.0
+land_area_m2__missing,0.17911092411379514
+rooms__missing,0.021984469767150013
+floor__missing,-0.17911092411379548
+total_floors__missing,-0.17911092411379548
+floor_ratio__missing,-0.17911092411379548
+latitude__missing,3.839145919275387e-05
+longitude__missing,3.839145919275387e-05
+log_area_m2__missing,0.0
+area_per_room__missing,0.021984469767150013
+city=bakı,0.0561805072110706
+city=xaçmaz,-0.01192588162173768
+city=xırdalan,-0.049207458150160595
+city=<RARE>,-0.032863454299967024
+city=<UNKNOWN>,0.0
+city=<MISSING>,0.0
+location=20 yanvar m.,0.0413400269379761
+location=20-ci sahə q.,-0.03482291865134292
+location=28 may m.,0.28394152747833196
+location=7-ci mikrorayon q.,-0.014918029098503538
+location=8 noyabr m.,0.10801386788403884
+location=8-ci kilometr q.,-0.06953878569029674
+location=8-ci mikrorayon q.,0.0243824736151226
+location=9-cu mikrorayon q.,-0.032034442191768486
+location=abşeron r.,-0.1245990703784795
+location=albalılıq q.,-0.02685660447158931
+location=avtovağzal m.,-0.10162715438439794
+location=azadlıq prospekti m.,0.02652094037353032
+location=ağ şəhər q.,0.5242175718873074
+location=badamdar q.,0.02077402509257087
+location=bakıxanov q.,-0.15135083617392692
+location=bayıl q.,-0.0022426125051163946
+location=bilgəh q.,0.0012218692365974398
+location=biləcəri q.,-0.19390179724832707
+location=binə q.,-0.32451329312567945
+location=binəqədi q.,-0.2626426214675127
+location=binəqədi r.,-0.027765962341470055
+location=buzovna q.,-0.05534982661715766
+location=bülbülə q.,-0.07094651936813953
+location=ceyranbatan q.,-0.06584031227018841
+location=dərnəgül m.,-0.026316770744514027
+location=elmlər akademiyası m.,0.23898886669655786
+location=fatmayı q.,-0.026521672192138402
+location=görədil q.,-0.04836207467197224
+location=gənclik m.,0.14374981714490712
+location=hökməli q.,-0.13103934849215593
+location=hövsan q.,-0.3150236182641223
+location=həzi aslanov m.,-0.21399333952927863
+location=həzi aslanov q.,-0.0728842710096222
+location=i̇nşaatçılar m.,-0.12351870254806378
+location=i̇çəri şəhər m.,0.21388202664144515
+location=keşlə q.,-0.04803398237525011
+location=koroğlu m.,0.027000919727725184
+location=köhnə günəşli q.,-0.10983265459370758
+location=kürdəxanı q.,-0.07397911025514146
+location=lökbatan q.,-0.10016711731330814
+location=m.ə.rəsulzadə q.,-0.07820060694743221
+location=masazır q.,-0.4539552378711692
+location=massiv d q.,-0.07398317693868098
+location=maştağa q.,-0.1667951631572844
+location=mehdiabad q.,-0.15747979362984807
+location=memar əcəmi m.,-0.0398568966234855
+location=məmmədli q.,-0.20611125413048312
+location=mərdəkan q.,0.10941245462696574
+location=nardaran q.,0.22782093995021924
+location=neftçilər m.,-0.09670342947468799
+location=nizami m.,0.3468739701389873
+location=nizami r.,-0.07770728433441756
+location=novxanı q.,-0.12247490640498732
+location=nzs q.,-0.02154802468519454
+location=nəriman nərimanov m.,0.2558177486528875
+location=nərimanov r.,0.18996561988603594
+location=nəsimi m.,-0.024968841478735137
+location=nəsimi r.,0.2591036091508615
+location=pirşağı q.,-0.025871887695123743
+location=qala q.,-0.10851195054991829
+location=qara qarayev m.,-0.034195413118460666
+location=qaraçuxur q.,-0.08623461365311773
+location=ramana q.,-0.15263720093825184
+location=sabunçu q.,-0.01201136397748512
+location=sabunçu r.,0.010398406953610245
+location=sahil m.,0.25544401001762024
+location=saray q.,-0.12155257255590093
+location=savalan q.,-0.10999004697076493
+location=sulutəpə q.,-0.0940257273211084
+location=suraxanı r.,-0.07462520766449356
+location=səbail r.,0.05996707848248145
+location=türkan q.,-0.06833485578727128
+location=xalqlar dostluğu m.,-0.13131169311196847
+location=xaçmaz,-0.01192588162173768
+location=xocəsən q.,-0.061749097047013396
+location=xırdalan,-0.049207458150160595
+location=xətai r.,-0.10690083112731436
+location=xəzər r.,-0.027043415915769007
+location=yasamal q.,-0.00423392380053563
+location=yasamal r.,-0.027209976207879186
+location=yeni günəşli q.,-0.18429764117930397
+location=yeni ramana q.,-0.12270467876344701
+location=yeni yasamal q.,-0.18970036172688873
+location=zabrat q.,-0.16236043081114
+location=zığ q.,-0.13240540763377873
+location=şah i̇smayıl xətai m.,0.35385197439377664
+location=şağan q.,-0.032179577745859514
+location=şüvəlan q.,0.015067753580969928
+location=şıxov q.,0.01686859487645479
+location=əhmədli m.,-0.1401528384848969
+location=əhmədli q.,-0.08047503569076436
+location=əmircan q.,-0.0817342997539408
+location=<RARE>,-0.13195270375713863
+location=<UNKNOWN>,0.0
+location=<MISSING>,0.0
+category=həyət evi/bağ evi,-0.17911092411379548
+category=köhnə tikili,-0.11190451760474199
+category=yeni tikili,0.2310693777805058
+category=<RARE>,0.0
+category=<UNKNOWN>,0.0
+category=<MISSING>,0.0
+repair=var,0.11720049712374558
+repair=yoxdur,-0.12782591627025888
+repair=<RARE>,0.0
+repair=<UNKNOWN>,0.0
+repair=<MISSING>,0.026516984571642612
+bill_of_sale=var,0.017880369636794676
+bill_of_sale=yoxdur,-0.017880369636794728
+bill_of_sale=<RARE>,0.0
+bill_of_sale=<UNKNOWN>,0.0
+bill_of_sale=<MISSING>,0.0
+mortgage=var,-0.02501216157987982
+mortgage=<RARE>,0.0
+mortgage=<UNKNOWN>,0.0
+mortgage=<MISSING>,0.025012161579879653

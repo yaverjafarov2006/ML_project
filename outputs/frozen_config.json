@@ -1,0 +1,50 @@
+{
+  "regression": {
+    "name": "own_spatial_segmented",
+    "kind": "own_tree",
+    "spatial": true,
+    "segmented": true,
+    "audit_filter": false,
+    "reviewed_training": false,
+    "max_depth": 16,
+    "min_samples_leaf": 5,
+    "iterations": 300,
+    "max_leaf_nodes": 31,
+    "l2": 1.0
+  },
+  "classification": {
+    "tree": {
+      "kind": "tree",
+      "criterion": "entropy",
+      "max_depth": 16,
+      "min_samples_leaf": 10
+    },
+    "linear": {
+      "kind": "linear",
+      "lambda_": 0.001,
+      "n_epochs": 120,
+      "schedule": "pegasos"
+    },
+    "rff": {
+      "kind": "rff",
+      "gamma": 0.005,
+      "n_components": 2048,
+      "lambda_": 1e-05,
+      "n_epochs": 120,
+      "schedule": "pegasos"
+    }
+  },
+  "classification_winner": "tree",
+  "threshold": 207000.0,
+  "selection": "Validation RMSE for regression; positive-class F1 for classification. No test selection.",
+  "feature_scope": "Residential: new apartments, old apartments, detached/garden houses.",
+  "final_fit": "Original residential training subset only; validation is not refitted.",
+  "threshold_rule": "price > median(original residential training prices)",
+  "svm_diagnostics_only_schedules": [
+    "constant",
+    "inverse_sqrt"
+  ],
+  "frozen_at": "2026-10-16T18:26:24.816327+00:00",
+  "dataset_sha256": "b6a4c67e0d3c712de31b9db53db53688792bc03099a213c1994c43114758aec2",
+  "configuration_sha256": "e4d29a6f7ae7a3852838b512ca8a27ad00f240d0465025e92af06afe27febd8f"
+}

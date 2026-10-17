@@ -1,0 +1,13 @@
+{
+  "top_one_percent_sse_share": 0.9883843940704566,
+  "n_top": 88,
+  "test_max_price": 60000000.0,
+  "train_max_price": 600000000.0,
+  "rows_removed_from_evaluation": 0,
+  "limitations": [
+    "Asking prices, not verified transaction prices.",
+    "No independent manual validation of extreme price labels.",
+    "Random grouped split does not establish future-period performance.",
+    "CV is a fixed-configuration stability check, not nested model selection."
+  ]
+}

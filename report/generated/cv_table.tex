@@ -1,0 +1,14 @@
+\begin{tabular}{@{}lrr@{}}
+\toprule
+Model & RMSE mean $\pm$ SD & F1 mean $\pm$ SD \\
+\midrule
+Own linear SVM & -- & 0.9061 $\pm$ 0.0038 \\
+Own RFF SVM & -- & 0.9111 $\pm$ 0.0023 \\
+Own tree & -- & 0.9183 $\pm$ 0.0023 \\
+Own spatial trees & 1,431,886 $\pm$ 2,904,141 & -- \\
+SGD linear & -- & 0.9061 $\pm$ 0.0043 \\
+SGD + same RFF & -- & 0.9114 $\pm$ 0.0024 \\
+sklearn tree & -- & 0.9185 $\pm$ 0.0024 \\
+sklearn spatial trees & 1,434,084 $\pm$ 2,902,905 & -- \\
+\bottomrule
+\end{tabular}

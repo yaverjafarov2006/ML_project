@@ -1,0 +1,16 @@
+{
+  "unit_tests_passed": 41,
+  "notebook_code_cells_executed": 12,
+  "notebook_error_outputs": 0,
+  "report_pages": 5,
+  "slides_pages": 11,
+  "report_and_slides_visually_reviewed": true,
+  "raw_csv_in_private_zip": true,
+  "repository_published": false,
+  "pending_submission_metadata": [
+    "real author names",
+    "actual member contributions",
+    "GitHub repository URL and publication/tag"
+  ],
+  "verification_details": "outputs/reproducibility_verification.json"
+}

@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+data/*
+!data/README.md
+outputs/*.npz
+outputs/split_manifest.csv
+*.zip
+report/*.aux
+report/*.log
+report/*.out

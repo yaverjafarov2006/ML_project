@@ -1,0 +1,33 @@
+[
+  {
+    "listing_id": "6eda4ed03e9a3460dba08fb547f7e2b1ec72c814e562481756cdd0792277ba97",
+    "source_row": 15608,
+    "action": "exclude_rental",
+    "expected_price": 400.0,
+    "evidence": "TƏCİLİ KİRAYƏ VERİLİR."
+  },
+  {
+    "listing_id": "2a18086af89b40e2d504755ba6c956e5e69fe650a6bece558571bd361fd081d6",
+    "source_row": 39396,
+    "action": "exclude_rental",
+    "expected_price": 700.0,
+    "evidence": "2 otaqlı mənzil kirayə verilir"
+  },
+  {
+    "listing_id": "605785158c89fde85e5273e02f48ed59b07a4beb9ca8236edf80f21bd2d0568a",
+    "source_row": 15638,
+    "action": "correct_area",
+    "expected_area": 9.0,
+    "area_m2": 650.0,
+    "evidence": "9 sot torpagin icinde ... 650kvadrat sahe"
+  },
+  {
+    "listing_id": "ac89b031b4dafdafa5c8f773fe6bac6d8167359e8deb818330ec55ad267f4f5e",
+    "source_row": 90432,
+    "action": "correct_area",
+    "expected_area": 11.0,
+    "area_m2": 300.0,
+    "land_area_m2": 1100.0,
+    "evidence": "11 sotun icində 300 kvadrat 2 mərtəbədən ibarətdir"
+  }
+]
